@@ -36,7 +36,7 @@ frame I was given. (This is the separate PDF one can find with my name on it)
 - The "orbit_electron_rk.cpp" / "orbit_electron_vl.cpp" files 
   contains the electron collapse code for both algorithms.
 
-- In the "Results" folder, there are two sub-folders containing the 
+- In the "Result" folder, there are two sub-folders containing the 
   raw data as DAT files and orbital graphs as PS and PDF files for
   respectively the comparison of the two algorithms and the motion
   of the collapsing electron.
@@ -55,7 +55,7 @@ frame I was given. (This is the separate PDF one can find with my name on it)
   radius, you most likely will not be able to obtain any real results.
   This is what I explain in my paper. 
 
-- In "Results," there are my results as previously mentioned.
+- In "Result," there are my results as previously mentioned.
   However, do not be alarmed if you do not see such a file 
   when you run the code. "DatFile" files should appear; they
   are the results.
