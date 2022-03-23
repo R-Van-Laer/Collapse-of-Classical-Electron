@@ -24,7 +24,7 @@ frame I was given. (This is the separate PDF one can find with my name on it)
 
 -----------------------------------------------------------------------------------------------------
 
-# A couple of things about this project:
+# A couple of things about this project
 
 - This project was written in C++ on a Linux platform and uses 
   Gnuplot for all graph related matters.  
@@ -43,7 +43,7 @@ frame I was given. (This is the separate PDF one can find with my name on it)
 
 -----------------------------------------------------------------------------------------------------
 
-# A couple of things about the code:
+# A couple of things about the code
 
 - If you want to compile it, please make sure you refer to the usage
   given. You should not need any particular library downloaded in 
