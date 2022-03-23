@@ -1,6 +1,7 @@
 # Collapse-of-Classical-Electron
 
 Project on C++ simulations of electron motion under Classical Collapse due to theoretical radiation.
+
 Please read the REPORT I wrote in the PDF file.
 
 ----------------------------------------------------------------------------------------------------
@@ -63,4 +64,5 @@ frame I was given. (This is the separate PDF one can find with my name on it)
 -----------------------------------------------------------------------------------------------------
 
 Fall 2021.
+
 R. Van Laer.
